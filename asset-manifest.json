@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nekofriends/static/css/main.a0f56e5c.css",
+    "main.js": "/Nekofriends/static/js/main.f6a96d45.js",
+    "static/js/787.32032a02.chunk.js": "/Nekofriends/static/js/787.32032a02.chunk.js",
+    "index.html": "/Nekofriends/index.html",
+    "main.a0f56e5c.css.map": "/Nekofriends/static/css/main.a0f56e5c.css.map",
+    "main.f6a96d45.js.map": "/Nekofriends/static/js/main.f6a96d45.js.map",
+    "787.32032a02.chunk.js.map": "/Nekofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f56e5c.css",
+    "static/js/main.f6a96d45.js"
+  ]
+}
